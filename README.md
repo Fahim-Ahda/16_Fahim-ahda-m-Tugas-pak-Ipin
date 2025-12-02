@@ -64,6 +64,6 @@ Secerenshot
 ![Boxplot Nilai per Mapel](SS)
 
 Codingan
-![Boxplot Nilai per Mapel](Codingan)
+![Boxplot Nilai per Mapel](SS Codingan)
 
 
