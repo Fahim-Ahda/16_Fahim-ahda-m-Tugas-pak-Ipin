@@ -59,4 +59,5 @@ Kegiatan analisis dan visualisasi data ini memberikan pengalaman praktis yang be
 
 ### Boxplot Sebaran Nilai per Mata Pelajaran
 ![Boxplot Nilai per Mapel](Grafik2)
- 
+
+
