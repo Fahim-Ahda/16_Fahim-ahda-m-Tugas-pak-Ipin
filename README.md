@@ -63,4 +63,7 @@ Kegiatan analisis dan visualisasi data ini memberikan pengalaman praktis yang be
 Secerenshot
 ![Boxplot Nilai per Mapel](SS)
 
+Codingan
+![Boxplot Nilai per Mapel](Codingan)
+
 
