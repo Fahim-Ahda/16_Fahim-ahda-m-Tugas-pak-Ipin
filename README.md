@@ -55,8 +55,8 @@ Kegiatan analisis dan visualisasi data ini memberikan pengalaman praktis yang be
 ---
 
 ### Grafik Rata-Rata Nilai per Mata Pelajaran
-![Rata-Rata Nilai per Mapel](Grafik1.png)
+![Rata-Rata Nilai per Mapel](Grafik1)
 
 ### Boxplot Sebaran Nilai per Mata Pelajaran
-![Boxplot Nilai per Mapel](Grafik2.png)
+![Boxplot Nilai per Mapel](Grafik2)
  
